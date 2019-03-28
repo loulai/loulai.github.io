@@ -1,0 +1,4 @@
+My Code Tutorial
+==================
+
+Run $python hw1_Lai_Louise.py on your terminal

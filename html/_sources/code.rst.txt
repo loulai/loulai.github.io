@@ -1,0 +1,6 @@
+Auto Generated Code Documentation
+==================================
+
+.. automodule:: hw1_Lai_Louise
+    :members:
+    :undoc-members:
